@@ -1,6 +1,6 @@
 # Gluky-WebApp
 
-**v1.0.1**
+**v1.0.2**
 
 This repository contains the client versions of **Gluky**,
 so if you want to customize you can fork it and work on it, if there are any errors, fixes to do or
@@ -49,14 +49,14 @@ Feel free to [contribute](#donations)!
 ### Clients
 
 - [Android](https://play.google.com/store/apps/details?id=com.tecknobit.gluky)
-- [Gluky desktop version](https://github.com/N7ghtm4r3/Gluky-Clients/releases/tag/1.0.1)
+- [Gluky desktop version](https://github.com/N7ghtm4r3/Gluky-Clients/releases/tag/1.0.2)
 - iOS -> source code available, but cannot distribute due
   missing [Apple Developer Program license](https://developer.apple.com/programs/)
 - [Gluky webapp version](https://github.com/N7ghtm4r3/Gluky-WebApp)
 
 ### Backend
 
-- [Backend service "out-of-the-box"](https://github.com/N7ghtm4r3/Gluky/releases/tag/1.0.0)
+- [Backend service "out-of-the-box"](https://github.com/N7ghtm4r3/Gluky/releases/tag/1.0.1)
 
 ## Usages
 
@@ -91,7 +91,7 @@ repositories {
 }
 
 dependencies {
-  implementation 'com.tecknobit.glukycore:glukycore:1.0.0'
+  implementation 'com.tecknobit.glukycore:glukycore:1.0.1'
 }
 ```
 
@@ -104,7 +104,7 @@ repositories {
 }
 
 dependencies {
-  implementation("com.tecknobit.glukycore:glukycore:1.0.0")
+  implementation("com.tecknobit.glukycore:glukycore:1.0.1")
 }
 ```
 
